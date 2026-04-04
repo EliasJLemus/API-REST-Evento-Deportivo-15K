@@ -1,0 +1,17 @@
+{
+  "name": "api-evento-deportivo-15k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "zod": "^4.3.6"
+  }
+}
